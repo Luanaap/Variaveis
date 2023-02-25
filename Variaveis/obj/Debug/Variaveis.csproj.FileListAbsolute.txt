@@ -1,0 +1,8 @@
+C:\Luana-cursos\Variaveis\Variaveis\bin\Debug\Variaveis.exe.config
+C:\Luana-cursos\Variaveis\Variaveis\bin\Debug\Variaveis.exe
+C:\Luana-cursos\Variaveis\Variaveis\bin\Debug\Variaveis.pdb
+C:\Luana-cursos\Variaveis\Variaveis\obj\Debug\Variaveis.csproj.AssemblyReference.cache
+C:\Luana-cursos\Variaveis\Variaveis\obj\Debug\Variaveis.csproj.SuggestedBindingRedirects.cache
+C:\Luana-cursos\Variaveis\Variaveis\obj\Debug\Variaveis.csproj.CoreCompileInputs.cache
+C:\Luana-cursos\Variaveis\Variaveis\obj\Debug\Variaveis.exe
+C:\Luana-cursos\Variaveis\Variaveis\obj\Debug\Variaveis.pdb
